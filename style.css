@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+    color: rgb(65, 42, 158);
+}
+    header{
+        text-align: center;
+    }
+
+span{
+    background-color: rgb(164, 105, 105);
+    color: rgb(116, 208, 67);
+    padding: 10px;
+    border: 2px solid black
+    border-radius: 5px;
+}
